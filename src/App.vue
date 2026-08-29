@@ -55,7 +55,7 @@ const navItems = [
 
 const mainImageSrc = withBase('/main.svg')
 
-const abstractContent = `This provisional site organizes <em>two-entity interaction combinations in mixed reality</em> using a scoping-review dataset. The current collection contains 29 coded interaction cases drawn from 20 publications. Each case is described across entity resources, relational composition, interaction dynamics, and interaction display. The final abstract will replace this provisional summary after the review text is confirmed.`
+const abstractContent = `This provisional site organizes <em>two-entity interaction combinations in mixed reality</em> across 75 coded cases: 29 literature-derived cases from 20 publications, 26 concepts generated through team brainstorming, and 20 concepts generated in a designer workshop. Each case is described across entity resources, relational composition, interaction dynamics, and interaction display. The final abstract will replace this provisional summary after the review text is confirmed.`
 
 function handleNavClick(item) {
   if (item.type === 'link') {

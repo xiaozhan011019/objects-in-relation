@@ -1251,5 +1251,1985 @@
       "Visual"
     ],
     "thumbnail": "29.png"
+  },
+  {
+    "number": 30,
+    "title": "Virtual Caliper: Generating an Adjustable Interval",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "30.png"
+  },
+  {
+    "number": 31,
+    "title": "Digital Rail: Constructing a Reference Axis and Cursor",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Axis"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "31.png"
+  },
+  {
+    "number": 32,
+    "title": "Spatial Window: Generating a Viewing Frame or Cross-Section",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Persistent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "32.png"
+  },
+  {
+    "number": 33,
+    "title": "Motion-Coupling System: Creating Constrained Motion",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "33.png"
+  },
+  {
+    "number": 34,
+    "title": "Directional Transfer Channel: Establishing a Directed Content Path",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "34.png"
+  },
+  {
+    "number": 35,
+    "title": "Spatial Bracket: Defining a Three-Dimensional Containment Region",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "35.png"
+  },
+  {
+    "number": 36,
+    "title": "Local Coordinate Constructor: Establishing a Local Reference Frame",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Scene"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "36.png"
+  },
+  {
+    "number": 37,
+    "title": "Spatial Button: Combining Objects into a State Trigger",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Shape"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "37.png"
+  },
+  {
+    "number": 38,
+    "title": "Proportional Coupler: Establishing a Parametric Transmission Relation",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Ring"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "38.png"
+  },
+  {
+    "number": 39,
+    "title": "Spatial Container: Creating a Space for Virtual Content Storage and Transfer",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "39.png"
+  },
+  {
+    "number": 40,
+    "title": "Encircling Group: Forming a Temporary Composite",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Ring"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "40.png"
+  },
+  {
+    "number": 41,
+    "title": "Path Wrapping: Defining a Motion Trajectory",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics",
+      "Function"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "41.png"
+  },
+  {
+    "number": 42,
+    "title": "Woven Fusion: Organizing Data Flows",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Composite Whole"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "42.png"
+  },
+  {
+    "number": 43,
+    "title": "Knot-Based Locking: Controlling Object State",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "43.png"
+  },
+  {
+    "number": 44,
+    "title": "Spatial Mirror Axis: Defining a Mirrored Two-Dimensional Region",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Container",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation",
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "44.png"
+  },
+  {
+    "number": 45,
+    "title": "Spatial Window: Constructing a Triangular Cross-Section",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Sphere",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "45.png"
+  },
+  {
+    "number": 46,
+    "title": "Contour Sweeper: Generating a Continuous 3D Surface or Tube",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "46.png"
+  },
+  {
+    "number": 47,
+    "title": "Boolean Sculpting Tool: Shaping Material through Negative Space",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "47.png"
+  },
+  {
+    "number": 48,
+    "title": "Magnetic Elastic Control: Creating a Virtual Elastic System",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Sphere"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Composite Whole"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "48.png"
+  },
+  {
+    "number": 49,
+    "title": "Frictional Energy Generation: Activating Virtual Energy through Rubbing",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "49.png"
+  },
+  {
+    "number": 50,
+    "title": "Shadow-Based Shape Projection: Sculpting a Virtual Object through Occlusion",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics",
+      "Function"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Scene"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "50.png"
+  },
+  {
+    "number": 51,
+    "title": "Percussive Sound Activation: Triggering a Virtual Instrument and Soundscape",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Scene"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "51.png"
+  },
+  {
+    "number": 52,
+    "title": "Push-Pull Scrolling: Controlling a Virtual Scroll or Progress State",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Container",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Axis"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "52.png"
+  },
+  {
+    "number": 53,
+    "title": "Angular Region Definition: Creating an Adjustable Angular Space",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "53.png"
+  },
+  {
+    "number": 54,
+    "title": "Object Coupling: Establishing a State-Linked Relation",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "54.png"
+  },
+  {
+    "number": 55,
+    "title": "Spatial Boundary: Defining an Interface-Switching Boundary",
+    "authors": "by Research Team",
+    "year": 2026,
+    "conference": "Generated through Team Brainstorming",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "55.png"
+  },
+  {
+    "number": 56,
+    "title": "Lens Wiping: Clearing Virtual Content from AR Glasses",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Planar Surface",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Shape"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "56.png"
+  },
+  {
+    "number": 57,
+    "title": "Cue Aiming: Generating an Assisted Trajectory with a Billiard Cue",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Sphere"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Axis"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "57.png"
+  },
+  {
+    "number": 58,
+    "title": "Proximity-Based Account Inquiry: Revealing Balance Information near a Money Tree",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "58.png"
+  },
+  {
+    "number": 59,
+    "title": "Impact Feedback: Triggering Expressions and Counts through Ball Strikes",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Planar Surface",
+      "Sphere"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities",
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "59.png"
+  },
+  {
+    "number": 60,
+    "title": "Plant Water-Demand Feedback: Displaying Required Water Volume on a Cup",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "60.png"
+  },
+  {
+    "number": 61,
+    "title": "Shape-Based Scene Transformation: Controlling Characters and Scenes with Puzzle Blocks",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy",
+      "Virtual-Character Proxy"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Shape"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object",
+      "Scene"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "61.png"
+  },
+  {
+    "number": 62,
+    "title": "Chopstick-Based Transformation: Scaling, Translating, and Rotating a Virtual Object",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance",
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "62.png"
+  },
+  {
+    "number": 63,
+    "title": "Landing-Point Assistance: Displaying Predicted and Historical Table-Tennis Landing Points",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Planar Surface",
+      "Sphere"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "63.png"
+  },
+  {
+    "number": 64,
+    "title": "Rod-to-Flower Composition: Generating a Virtual Vase through Insertion",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics",
+      "Virtual-Object Proxy"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Composite Whole"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "64.png"
+  },
+  {
+    "number": 65,
+    "title": "Material Transfer by Contact: Changing a Target Object's Surface Material",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Block",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "65.png"
+  },
+  {
+    "number": 66,
+    "title": "Focus-Based Tree Cultivation: Growing a Virtual Tree by Storing a Smartphone",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Container",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "66.png"
+  },
+  {
+    "number": 67,
+    "title": "Proximity-Ignited Energy: Generating a Virtual Flame with Oppositely Charged Rods",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "67.png"
+  },
+  {
+    "number": 68,
+    "title": "Spray-Revealed Imagery: Revealing Virtual Ink on a Book",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Persistent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "68.png"
+  },
+  {
+    "number": 69,
+    "title": "Black-Hole Pocket: Triggering a Black-Hole Effect by Inserting an Object",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Sphere",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Composite Whole"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Persistent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "69.png"
+  },
+  {
+    "number": 70,
+    "title": "Light-Responsive Plant Emotion: Visualizing Mood and Growth under Lamp Illumination",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "70.png"
+  },
+  {
+    "number": 71,
+    "title": "Star-Marking Bookmark: Creating a Virtual Favorite Bookmark with a Pen",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Rod",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Persistent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "71.png"
+  },
+  {
+    "number": 72,
+    "title": "Fuel-Triggered Heating: Activating Virtual Cooking beneath a Vessel",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Container",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "72.png"
+  },
+  {
+    "number": 73,
+    "title": "Meteoric Fire Trail: Generating a 3D Flame Trajectory with a Tethered Ball",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Sphere",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Persistent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "73.png"
+  },
+  {
+    "number": 74,
+    "title": "Spray-to-Reveal Scene: Gradually Revealing Virtual Imagery on a Table",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Container",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "74.png"
+  },
+  {
+    "number": 75,
+    "title": "Target-Strike Feedback: Visualizing Impact and Damage with a Boxing Glove",
+    "authors": "by Designer Workshop Participants",
+    "year": 2026,
+    "conference": "Generated in the Designer Workshop",
+    "link": "",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Scene"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "75.png"
   }
 ]

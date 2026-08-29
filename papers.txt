@@ -519,3 +519,831 @@ D1 Feedback Placement: One of the Entities
 D2 Feedback Form: Static
 D3 Feedback Persistence: Relation-Dependent
 D4 Feedback Modality: Visual
+
+编号: 30
+标题: Virtual Caliper: Generating an Adjustable Interval
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 31
+标题: Digital Rail: Constructing a Reference Axis and Cursor
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod, Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Axis
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 32
+标题: Spatial Window: Generating a Viewing Frame or Cross-Section
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Persistent
+D4 Feedback Modality: Visual
+
+编号: 33
+标题: Motion-Coupling System: Creating Constrained Motion
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod, Container
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 34
+标题: Directional Transfer Channel: Establishing a Directed Content Path
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Container
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 35
+标题: Spatial Bracket: Defining a Three-Dimensional Containment Region
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 36
+标题: Local Coordinate Constructor: Establishing a Local Reference Frame
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Scene
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 37
+标题: Spatial Button: Combining Objects into a State Trigger
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Shape
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual, Auditory
+
+编号: 38
+标题: Proportional Coupler: Establishing a Parametric Transmission Relation
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Ring
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 39
+标题: Spatial Container: Creating a Space for Virtual Content Storage and Transfer
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block, Container
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 40
+标题: Encircling Group: Forming a Temporary Composite
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block, Ring
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 41
+标题: Path Wrapping: Defining a Motion Trajectory
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod, Rod
+A2 Digital Semantic Resources: No Additional Semantics, Function
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 42
+标题: Woven Fusion: Organizing Data Flows
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Composite Whole
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 43
+标题: Knot-Based Locking: Controlling Object State
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 44
+标题: Spatial Mirror Axis: Defining a Mirrored Two-Dimensional Region
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Container, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation, Plane
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 45
+标题: Spatial Window: Constructing a Triangular Cross-Section
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Sphere, Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 46
+标题: Contour Sweeper: Generating a Continuous 3D Surface or Tube
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block, Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 47
+标题: Boolean Sculpting Tool: Shaping Material through Negative Space
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 48
+标题: Magnetic Elastic Control: Creating a Virtual Elastic System
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Sphere
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Composite Whole
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 49
+标题: Frictional Energy Generation: Activating Virtual Energy through Rubbing
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 50
+标题: Shadow-Based Shape Projection: Sculpting a Virtual Object through Occlusion
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics, Function
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: Scene
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 51
+标题: Percussive Sound Activation: Triggering a Virtual Instrument and Soundscape
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block, Rod
+A2 Digital Semantic Resources: Virtual-Object Proxy, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Scene
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual, Auditory
+
+编号: 52
+标题: Push-Pull Scrolling: Controlling a Virtual Scroll or Progress State
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Container, Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Axis
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 53
+标题: Angular Region Definition: Creating an Adjustable Angular Space
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 54
+标题: Object Coupling: Establishing a State-Linked Relation
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: Virtual-Object Proxy
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 55
+标题: Spatial Boundary: Defining an Interface-Switching Boundary
+作者: Research Team
+年份: 2026
+会议: Generated through Team Brainstorming
+链接: 
+A1 Physical Form: Block, Rod
+A2 Digital Semantic Resources: Virtual-Object Proxy, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 56
+标题: Lens Wiping: Clearing Virtual Content from AR Glasses
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Planar Surface, Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Shape
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 57
+标题: Cue Aiming: Generating an Assisted Trajectory with a Billiard Cue
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Rod, Sphere
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Axis
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 58
+标题: Proximity-Based Account Inquiry: Revealing Balance Information near a Money Tree
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual, Auditory
+
+编号: 59
+标题: Impact Feedback: Triggering Expressions and Counts through Ball Strikes
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Planar Surface, Sphere
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities, Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual, Auditory
+
+编号: 60
+标题: Plant Water-Demand Feedback: Displaying Required Water Volume on a Cup
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Block, Container
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 61
+标题: Shape-Based Scene Transformation: Controlling Characters and Scenes with Puzzle Blocks
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Virtual-Object Proxy, Virtual-Character Proxy
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Shape
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Remote Virtual Object, Scene
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual, Auditory
+
+编号: 62
+标题: Chopstick-Based Transformation: Scaling, Translating, and Rotating a Virtual Object
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Distance, Orientation
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 63
+标题: Landing-Point Assistance: Displaying Predicted and Historical Table-Tennis Landing Points
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Planar Surface, Sphere
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 64
+标题: Rod-to-Flower Composition: Generating a Virtual Vase through Insertion
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Rod, Container
+A2 Digital Semantic Resources: No Additional Semantics, Virtual-Object Proxy
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Composite Whole
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 65
+标题: Material Transfer by Contact: Changing a Target Object's Surface Material
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Block, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 66
+标题: Focus-Based Tree Cultivation: Growing a Virtual Tree by Storing a Smartphone
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Container, Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 67
+标题: Proximity-Ignited Energy: Generating a Virtual Flame with Oppositely Charged Rods
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 68
+标题: Spray-Revealed Imagery: Revealing Virtual Ink on a Book
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Persistent
+D4 Feedback Modality: Visual
+
+编号: 69
+标题: Black-Hole Pocket: Triggering a Black-Hole Effect by Inserting an Object
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Sphere, Container
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Composite Whole
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Persistent
+D4 Feedback Modality: Visual
+
+编号: 70
+标题: Light-Responsive Plant Emotion: Visualizing Mood and Growth under Lamp Illumination
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Rod, Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 71
+标题: Star-Marking Bookmark: Creating a Virtual Favorite Bookmark with a Pen
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Rod, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Persistent
+D4 Feedback Modality: Visual
+
+编号: 72
+标题: Fuel-Triggered Heating: Activating Virtual Cooking beneath a Vessel
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Container, Block
+A2 Digital Semantic Resources: Virtual-Object Proxy
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 73
+标题: Meteoric Fire Trail: Generating a 3D Flame Trajectory with a Tethered Ball
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Sphere, Rod
+A2 Digital Semantic Resources: Virtual-Object Proxy
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Persistent
+D4 Feedback Modality: Visual
+
+编号: 74
+标题: Spray-to-Reveal Scene: Gradually Revealing Virtual Imagery on a Table
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Container, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual, Auditory
+
+编号: 75
+标题: Target-Strike Feedback: Visualizing Impact and Damage with a Boxing Glove
+作者: Designer Workshop Participants
+年份: 2026
+会议: Generated in the Designer Workshop
+链接: 
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Scene
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual, Auditory

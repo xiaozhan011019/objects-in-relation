@@ -8,5 +8,5 @@
   <text x="995" y="185" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#365014">ENTITY B</text><text x="995" y="230" text-anchor="middle" font-family="monospace" font-size="18" fill="#58733b">form · semantics</text>
   <path d="M320 205H500M700 205H880" stroke="#6fa4c7" stroke-width="8" stroke-linecap="round"/><path d="M475 188l25 17-25 17M725 188l-25 17 25 17" fill="none" stroke="#6fa4c7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="600" y="192" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#244e78">MR</text><text x="600" y="222" text-anchor="middle" font-family="monospace" font-size="17" fill="#356b91">RELATION</text>
-  <text x="600" y="370" text-anchor="middle" font-family="monospace" font-size="20" fill="#4b5563">29 coded cases · 20 publications · 11 dimensions</text>
+  <text x="600" y="370" text-anchor="middle" font-family="monospace" font-size="20" fill="#4b5563">75 coded cases · 29 literature-derived · 46 design-generated</text>
 </svg>
