@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Coding taxonomy for two-entity mixed-reality interactions</title><rect width="1200" height="300" rx="24" fill="#f8f9ff"/>
+  <g font-family="monospace" text-anchor="middle">
+    <rect x="25" y="72" width="270" height="156" rx="20" fill="#eaf7f4" stroke="#8bbeb7" stroke-width="3"/><text x="160" y="132" font-size="20" font-weight="700" fill="#315e59">ENTITY RESOURCES</text><text x="160" y="170" font-size="15" fill="#477a74">2 dimensions</text>
+    <rect x="318" y="72" width="270" height="156" rx="20" fill="#edf5fc" stroke="#7a9dee" stroke-width="3"/><text x="453" y="132" font-size="20" font-weight="700" fill="#345785">RELATIONAL COMPOSITION</text><text x="453" y="170" font-size="15" fill="#3f63b0">3 dimensions</text>
+    <rect x="612" y="72" width="270" height="156" rx="20" fill="#f8eef5" stroke="#d893cc" stroke-width="3"/><text x="747" y="132" font-size="20" font-weight="700" fill="#754267">INTERACTION DYNAMICS</text><text x="747" y="170" font-size="15" fill="#98538f">2 dimensions</text>
+    <rect x="905" y="72" width="270" height="156" rx="20" fill="#fbf3e7" stroke="#e5bf78" stroke-width="3"/><text x="1040" y="132" font-size="20" font-weight="700" fill="#7b4e22">INTERACTION DISPLAY</text><text x="1040" y="170" font-size="15" fill="#95702f">4 dimensions</text>
+  </g>
+</svg>

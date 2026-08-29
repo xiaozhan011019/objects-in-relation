@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Two-entity interaction review overview</title>
+  <desc id="desc">Two physical entities form a mixed-reality relationship analyzed across five dimensions.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#f4f1ff"/><stop offset="1" stop-color="#eaf4fa"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#6272a4" flood-opacity=".18"/></filter></defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <g filter="url(#shadow)"><rect x="90" y="108" width="230" height="190" rx="28" fill="#fff" stroke="#9b78ca" stroke-width="4"/><rect x="880" y="108" width="230" height="190" rx="28" fill="#fff" stroke="#70afa6" stroke-width="4"/><circle cx="600" cy="205" r="92" fill="#fff" stroke="#6fa4c7" stroke-width="5"/></g>
+  <text x="205" y="185" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#341b8f">ENTITY A</text><text x="205" y="230" text-anchor="middle" font-family="monospace" font-size="18" fill="#5f5379">form · semantics</text>
+  <text x="995" y="185" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#365014">ENTITY B</text><text x="995" y="230" text-anchor="middle" font-family="monospace" font-size="18" fill="#58733b">form · semantics</text>
+  <path d="M320 205H500M700 205H880" stroke="#6fa4c7" stroke-width="8" stroke-linecap="round"/><path d="M475 188l25 17-25 17M725 188l-25 17 25 17" fill="none" stroke="#6fa4c7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="192" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#244e78">MR</text><text x="600" y="222" text-anchor="middle" font-family="monospace" font-size="17" fill="#356b91">RELATION</text>
+  <text x="600" y="370" text-anchor="middle" font-family="monospace" font-size="20" fill="#4b5563">29 coded cases · 20 publications · 11 dimensions</text>
+</svg>

@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background: linear-gradient(180deg, #EBEFFF 0%, #E1F1FF 100%);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* ==================== 响应式工具类 ==================== */
+.container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ==================== 响应式断点媒体查询 ==================== */
+
+/* 大屏幕桌面 (>1400px) - 默认样式 */
+
+/* 桌面 (1200px - 1400px) */
+@media screen and (max-width: 1400px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+/* 小桌面 (1024px - 1200px) */
+@media screen and (max-width: 1200px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* 平板 (768px - 1024px) */
+@media screen and (max-width: 1024px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+/* 大手机 (576px - 768px) */
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+/* 手机 (480px - 576px) */
+@media screen and (max-width: 576px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+/* 小手机 (<480px) */
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,1255 @@
+[
+  {
+    "number": 1,
+    "title": "Neighbor Comparison",
+    "authors": "by Shuqi He, Haonan Yao, Luyan Jiang, Kaiwen Li, Nan Xiang, Yue Li, Hai-Ning Liang, Lingyun Yu",
+    "year": 2024,
+    "conference": "CHI 2024 · Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality",
+    "link": "https://doi.org/10.1145/3613904.3642740",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "1.png"
+  },
+  {
+    "number": 2,
+    "title": "Vertical Stacking",
+    "authors": "by Shuqi He, Haonan Yao, Luyan Jiang, Kaiwen Li, Nan Xiang, Yue Li, Hai-Ning Liang, Lingyun Yu",
+    "year": 2024,
+    "conference": "CHI 2024 · Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality",
+    "link": "https://doi.org/10.1145/3613904.3642740",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "2.png"
+  },
+  {
+    "number": 3,
+    "title": "Hover-to-Transfer: Transferring Data from a Smartphone to a Computer",
+    "authors": "by Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu",
+    "year": 2023,
+    "conference": "CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
+    "link": "https://doi.org/10.1145/3544548.3580750",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "3.png"
+  },
+  {
+    "number": 4,
+    "title": "Proximity-Based Connection: Activating a Computer with a Nearby Smartphone",
+    "authors": "by Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu",
+    "year": 2023,
+    "conference": "CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
+    "link": "https://doi.org/10.1145/3544548.3580750",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "4.png"
+  },
+  {
+    "number": 5,
+    "title": "Orientation-Based Printing: Transferring Content by Aligning Paper with a Printer",
+    "authors": "by Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu",
+    "year": 2023,
+    "conference": "CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
+    "link": "https://doi.org/10.1145/3544548.3580750",
+    "A1 Physical Form": [
+      "Planar Surface",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance",
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "5.png"
+  },
+  {
+    "number": 6,
+    "title": "Proximity-Based Authentication: Unlocking a Locker with a Wallet",
+    "authors": "by Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu",
+    "year": 2023,
+    "conference": "CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
+    "link": "https://doi.org/10.1145/3544548.3580750",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance",
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "6.png"
+  },
+  {
+    "number": 7,
+    "title": "Insertion-Triggered Feedback: Playing a Greeting by Placing a Flower in a Vase",
+    "authors": "by Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu",
+    "year": 2023,
+    "conference": "CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
+    "link": "https://doi.org/10.1145/3544548.3580750",
+    "A1 Physical Form": [
+      "Rod",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Scene"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "7.png"
+  },
+  {
+    "number": 8,
+    "title": "Tangible Cord Slider: Adjusting Values Along a Physical Cord",
+    "authors": "by Konstantin Klamka, Raimund Dachselt",
+    "year": 2018,
+    "conference": "CHI EA 2018 · ARCord: Visually Augmented Interactive Cords for Mobile Interaction",
+    "link": "https://doi.org/10.1145/3170427.3188456",
+    "A1 Physical Form": [
+      "Ring",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Axis"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "8.png"
+  },
+  {
+    "number": 9,
+    "title": "Proximity-Based Comparison: Comparing Sales Data for Adjacent Beverages",
+    "authors": "by Hui Ye, Jiaye Leng, Pengfei Xu, Karan Singh, Hongbo Fu",
+    "year": 2024,
+    "conference": "CHI 2024 · ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions",
+    "link": "https://doi.org/10.1145/3613904.3642527",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "9.png"
+  },
+  {
+    "number": 10,
+    "title": "Spatial Switching: Activating a Lamp by Repositioning a Cup",
+    "authors": "by Hui Ye, Jiaye Leng, Pengfei Xu, Karan Singh, Hongbo Fu",
+    "year": 2024,
+    "conference": "CHI 2024 · ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions",
+    "link": "https://doi.org/10.1145/3613904.3642527",
+    "A1 Physical Form": [
+      "Container",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "10.png"
+  },
+  {
+    "number": 11,
+    "title": "Physical Contour Tracing: Drawing Surface-Adaptive Curves",
+    "authors": "by Philipp Wacker, Adrian Wagner, Simon Voelker, Jan Borchers",
+    "year": 2018,
+    "conference": "SUI 2018 · Physical Guides: An Analysis of 3D Sketching Performance on Physical Objects in Augmented Reality",
+    "link": "https://doi.org/10.1145/3267782.3267788",
+    "A1 Physical Form": [
+      "Rod",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "11.png"
+  },
+  {
+    "number": 12,
+    "title": "Contact-Triggered Effects: Activating Visual Feedback with a Fork",
+    "authors": "by Zhengzhe Zhu, Ziyi Liu, Tianyi Wang, Youyou Zhang, Xun Qian, Pashin Farsak Raja, Ana Villanueva, Karthik Ramani",
+    "year": 2022,
+    "conference": "UIST 2022 · MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time",
+    "link": "https://doi.org/10.1145/3526113.3545668",
+    "A1 Physical Form": [
+      "Rod",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "12.png"
+  },
+  {
+    "number": 13,
+    "title": "Virtual Water-Jet Fire Suppression: Targeting a Building with a Fire Engine",
+    "authors": "by Zhengzhe Zhu, Ziyi Liu, Tianyi Wang, Youyou Zhang, Xun Qian, Pashin Farsak Raja, Ana Villanueva, Karthik Ramani",
+    "year": 2022,
+    "conference": "UIST 2022 · MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time",
+    "link": "https://doi.org/10.1145/3526113.3545668",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Auditory"
+    ],
+    "thumbnail": "13.png"
+  },
+  {
+    "number": 14,
+    "title": "Remote Cannon Interaction: Triggering Vibrotactile Feedback on Impact",
+    "authors": "by Zhengzhe Zhu, Ziyi Liu, Tianyi Wang, Youyou Zhang, Xun Qian, Pashin Farsak Raja, Ana Villanueva, Karthik Ramani",
+    "year": 2022,
+    "conference": "UIST 2022 · MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time",
+    "link": "https://doi.org/10.1145/3526113.3545668",
+    "A1 Physical Form": [
+      "Rod",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Object Proxy",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual",
+      "Haptic"
+    ],
+    "thumbnail": "14.png"
+  },
+  {
+    "number": 15,
+    "title": "Moisture-Responsive Lighting: Mapping Soil Moisture to Light Color",
+    "authors": "by Katja Krug, Wolfgang Buschel, Konstantin Klamka, Raimund Dachselt",
+    "year": 2022,
+    "conference": "ISMAR 2022 · CleAR Sight: Exploring the Potential of Interacting with Transparent Tablets in Augmented Reality",
+    "link": "https://doi.org/10.1109/ismar55827.2022.00034",
+    "A1 Physical Form": [
+      "Block",
+      "Sphere"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Persistent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "15.png"
+  },
+  {
+    "number": 16,
+    "title": "Tangible Block Addition: Computing the Sum of Two Number Blocks",
+    "authors": "by Kyzyl Monteiro, Ritik Vatsal, Neil Chulpongsatorn, Aman Parnami, Ryo Suzuki",
+    "year": 2023,
+    "conference": "CHI 2023 · Teachable Reality: Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching",
+    "link": "https://doi.org/10.1145/3544548.3581449",
+    "A1 Physical Form": [
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "16.png"
+  },
+  {
+    "number": 17,
+    "title": "Tangible Map-Region Selection: Revealing Spatiotemporal Data with a Ring",
+    "authors": "by Seung Youb Ssin, James A. Walsh, Ross T. Smith, Andrew Cunningham, Bruce H. Thomas",
+    "year": 2019,
+    "conference": "IEEE VR 2019 · GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions",
+    "link": "https://doi.org/10.1109/vr.2019.8797812",
+    "A1 Physical Form": [
+      "Ring",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "17.png"
+  },
+  {
+    "number": 18,
+    "title": "Spatiotemporal Slider: Browsing Time Along a Tangible Base",
+    "authors": "by Barrett Ens, Sarah Goodwin, Arnaud Prouzeau, Fraser Anderson, Florence Y. Wang, Samuel Gratzl, Zac Lucarelli, Brendan Moyle, Jim Smiley, Tim Dwyer",
+    "year": 2021,
+    "conference": "IEEE TVCG 2021 · Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics",
+    "link": "https://doi.org/10.1109/tvcg.2020.3030334",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "Data"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Axis"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "18.png"
+  },
+  {
+    "number": 19,
+    "title": "Spatiotemporal Slider: Switching Views by Lifting the Slider",
+    "authors": "by Barrett Ens, Sarah Goodwin, Arnaud Prouzeau, Fraser Anderson, Florence Y. Wang, Samuel Gratzl, Zac Lucarelli, Brendan Moyle, Jim Smiley, Tim Dwyer",
+    "year": 2021,
+    "conference": "IEEE TVCG 2021 · Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics",
+    "link": "https://doi.org/10.1109/tvcg.2020.3030334",
+    "A1 Physical Form": [
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "19.png"
+  },
+  {
+    "number": 20,
+    "title": "Physical Canvas: Surface-Constrained Tracing",
+    "authors": "by Qianyuan Zou, Huidong Bai, Zhuang Chang, Zirui Xiao, Suizi Tian, Henry Been-Lirn Duh, Allan Fowler, Mark Billinghurst",
+    "year": 2024,
+    "conference": "IEEE ISMAR 2024 · The Effect of Interface Types and Immersive Environments on Drawing Accuracy and User Comfort",
+    "link": "https://doi.org/10.1109/ismar62088.2024.00099",
+    "A1 Physical Form": [
+      "Rod",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "20.png"
+  },
+  {
+    "number": 21,
+    "title": "Surface-Based Stroke Annotation: Generating a Virtual Trajectory on a Physical Part",
+    "authors": "by K.N. Kutulakos, J.R. Vallino",
+    "year": 1998,
+    "conference": "TVCG 1988 · Calibration-Free Augmented Reality",
+    "link": "https://doi.org/10.1109/2945.675647",
+    "A1 Physical Form": [
+      "Rod",
+      "Block"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Plane"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "21.png"
+  },
+  {
+    "number": 22,
+    "title": "Magnetic-Field Adjustment: Controlling Compass-Needle Deflection",
+    "authors": "by Tianren Luo, Mingmin Zhang, Zhigeng Pan, Zheng Li, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu",
+    "year": 2020,
+    "conference": "TVCG 2020 · Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments",
+    "link": "https://doi.org/10.1109/tvcg.2020.3023602",
+    "A1 Physical Form": [
+      "Ring",
+      "Rod"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "None"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "22.png"
+  },
+  {
+    "number": 23,
+    "title": "Assembly-Enabled Activation: Constructing a Virtual Flashlight",
+    "authors": "by Davide Calandra, F. Gabriele Prattico, Alberto Cannavo, Luca Micelli, Fabrizio Lamberti",
+    "year": 2019,
+    "conference": "IEEE VR 2019 · Building Reconfigurable Passive Haptic Interfaces On Demand Using Off-the-shelf Construction Bricks",
+    "link": "https://doi.org/10.1109/vr.2019.8797865",
+    "A1 Physical Form": [
+      "Block",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Shape"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Composite Whole"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "23.png"
+  },
+  {
+    "number": 24,
+    "title": "Insertion-and-Rotation Control: Manipulating a Virtual Object with a Constrained Tool",
+    "authors": "by Toshiro Kashiwagi, Kaoru Sumi, Sidney Fels, Qian Zhou, Fan Wu",
+    "year": 2019,
+    "conference": "IEEE VR 2019 · Crystal Palace: Merging Virtual Objects and Physical Hand-held Tools",
+    "link": "https://doi.org/10.1109/vr.2019.8798370",
+    "A1 Physical Form": [
+      "Rod",
+      "Ring"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "24.png"
+  },
+  {
+    "number": 25,
+    "title": "Motion-Based Bubble Control: Manipulating Virtual Bubbles by Shaking a Rod",
+    "authors": "by Lifeng Zhu, Xijing Liu",
+    "year": 2019,
+    "conference": "IEEE VR 2019 · A Mobile Augmented Reality Approach for Creating Dynamic Effects with Controlled Vector Fields",
+    "link": "https://doi.org/10.1109/vr.2019.8797735",
+    "A1 Physical Form": [
+      "Rod",
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "Relational Space of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Continuous Update"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "25.png"
+  },
+  {
+    "number": 26,
+    "title": "Watering-Triggered Character Activation",
+    "authors": "by Jie Guan, Nadine Lessio, Yiyi Shao, Alexis Morris",
+    "year": 2020,
+    "conference": "VRW 2020 · Exploring a Mixed Reality Framework for the Internet-of-Things: Toward Visualization and Interaction with Hybrid Objects and Avatars",
+    "link": "https://doi.org/10.1109/vrw50115.2020.00281",
+    "A1 Physical Form": [
+      "Container"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Virtual-Character Proxy",
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Region"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "26.png"
+  },
+  {
+    "number": 27,
+    "title": "Overlay-Based Information Decoding with Transparent Panels",
+    "authors": "by Alvaro Villegas, Pablo Perez, Redouane Kachach, Francisco Pereira, Ester Gonzalez-Sosa",
+    "year": 2020,
+    "conference": "VRW 2020 · Realistic training in VR using physical manipulation",
+    "link": "https://doi.org/10.1109/vrw50115.2020.00025",
+    "A1 Physical Form": [
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics"
+    ],
+    "B1 Role Configuration": [
+      "Symmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Distance"
+    ],
+    "B3 Relational Logic": [
+      "Peer Association"
+    ],
+    "C1 Control Allocation": [
+      "Dual-Entity Relative Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Composite Whole"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Transient"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "27.png"
+  },
+  {
+    "number": 28,
+    "title": "Sequential Rotation Unlocking",
+    "authors": "by Mac Greenslade, Adrian Clark, Zhe Chen, Stephan Lukosch",
+    "year": 2023,
+    "conference": "VRW 2023 · Vibro-tactile Feedback for Dial Interaction using an Everyday Object in Augmented Reality",
+    "link": "https://doi.org/10.1109/vrw58643.2023.00297",
+    "A1 Physical Form": [
+      "Block",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "Function"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "Composition"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete"
+    ],
+    "D1 Feedback Placement": [
+      "Remote Virtual Object"
+    ],
+    "D2 Feedback Form": [
+      "One-Time Animation"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "28.png"
+  },
+  {
+    "number": 29,
+    "title": "Magnified Mirror View for Precision Alignment",
+    "authors": "by Vanessa Kern, Constantin Kleinbeck, Kevin Yu, Alejandro Martin-Gomez, Alexander Winkler, Nassir Navab, Daniel Roth",
+    "year": 2023,
+    "conference": "VRW 2023 · Magnifying Augmented Mirrors for Accurate Alignment Tasks",
+    "link": "https://doi.org/10.1109/vrw58643.2023.00185",
+    "A1 Physical Form": [
+      "Block",
+      "Planar Surface"
+    ],
+    "A2 Digital Semantic Resources": [
+      "No Additional Semantics",
+      "Function"
+    ],
+    "B1 Role Configuration": [
+      "Asymmetric"
+    ],
+    "B2 Spatial Constraint": [
+      "Orientation"
+    ],
+    "B3 Relational Logic": [
+      "One-Way Influence"
+    ],
+    "C1 Control Allocation": [
+      "Single-Entity Control"
+    ],
+    "C2 Interaction Continuity": [
+      "Discrete",
+      "Continuous"
+    ],
+    "D1 Feedback Placement": [
+      "One of the Entities"
+    ],
+    "D2 Feedback Form": [
+      "Static"
+    ],
+    "D3 Feedback Persistence": [
+      "Relation-Dependent"
+    ],
+    "D4 Feedback Modality": [
+      "Visual"
+    ],
+    "thumbnail": "29.png"
+  }
+]

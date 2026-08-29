@@ -1,0 +1,521 @@
+编号: 1
+标题: Neighbor Comparison
+作者: Shuqi He, Haonan Yao, Luyan Jiang, Kaiwen Li, Nan Xiang, Yue Li, Hai-Ning Liang, Lingyun Yu
+年份: 2024
+会议: CHI 2024 · Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality
+链接: https://doi.org/10.1145/3613904.3642740
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 2
+标题: Vertical Stacking
+作者: Shuqi He, Haonan Yao, Luyan Jiang, Kaiwen Li, Nan Xiang, Yue Li, Hai-Ning Liang, Lingyun Yu
+年份: 2024
+会议: CHI 2024 · Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality
+链接: https://doi.org/10.1145/3613904.3642740
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 3
+标题: Hover-to-Transfer: Transferring Data from a Smartphone to a Computer
+作者: Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu
+年份: 2023
+会议: CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD
+链接: https://doi.org/10.1145/3544548.3580750
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 4
+标题: Proximity-Based Connection: Activating a Computer with a Nearby Smartphone
+作者: Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu
+年份: 2023
+会议: CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD
+链接: https://doi.org/10.1145/3544548.3580750
+A1 Physical Form: Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 5
+标题: Orientation-Based Printing: Transferring Content by Aligning Paper with a Printer
+作者: Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu
+年份: 2023
+会议: CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD
+链接: https://doi.org/10.1145/3544548.3580750
+A1 Physical Form: Planar Surface, Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Distance, Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 6
+标题: Proximity-Based Authentication: Unlocking a Locker with a Wallet
+作者: Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu
+年份: 2023
+会议: CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD
+链接: https://doi.org/10.1145/3544548.3580750
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Function, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Distance, Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 7
+标题: Insertion-Triggered Feedback: Playing a Greeting by Placing a Flower in a Vase
+作者: Hui Ye, Jiaye Leng, Chufeng Xiao, Lili Wang, Hongbo Fu
+年份: 2023
+会议: CHI 2023 · ProObjAR: Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD
+链接: https://doi.org/10.1145/3544548.3580750
+A1 Physical Form: Rod, Container
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Scene
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual, Auditory
+
+编号: 8
+标题: Tangible Cord Slider: Adjusting Values Along a Physical Cord
+作者: Konstantin Klamka, Raimund Dachselt
+年份: 2018
+会议: CHI EA 2018 · ARCord: Visually Augmented Interactive Cords for Mobile Interaction
+链接: https://doi.org/10.1145/3170427.3188456
+A1 Physical Form: Ring, Rod
+A2 Digital Semantic Resources: Function, Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Axis
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 9
+标题: Proximity-Based Comparison: Comparing Sales Data for Adjacent Beverages
+作者: Hui Ye, Jiaye Leng, Pengfei Xu, Karan Singh, Hongbo Fu
+年份: 2024
+会议: CHI 2024 · ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions
+链接: https://doi.org/10.1145/3613904.3642527
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 10
+标题: Spatial Switching: Activating a Lamp by Repositioning a Cup
+作者: Hui Ye, Jiaye Leng, Pengfei Xu, Karan Singh, Hongbo Fu
+年份: 2024
+会议: CHI 2024 · ProInterAR: A Visual Programming Platform for Creating Immersive AR Interactions
+链接: https://doi.org/10.1145/3613904.3642527
+A1 Physical Form: Container, Rod
+A2 Digital Semantic Resources: Function, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 11
+标题: Physical Contour Tracing: Drawing Surface-Adaptive Curves
+作者: Philipp Wacker, Adrian Wagner, Simon Voelker, Jan Borchers
+年份: 2018
+会议: SUI 2018 · Physical Guides: An Analysis of 3D Sketching Performance on Physical Objects in Augmented Reality
+链接: https://doi.org/10.1145/3267782.3267788
+A1 Physical Form: Rod, Block
+A2 Digital Semantic Resources: Function, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 12
+标题: Contact-Triggered Effects: Activating Visual Feedback with a Fork
+作者: Zhengzhe Zhu, Ziyi Liu, Tianyi Wang, Youyou Zhang, Xun Qian, Pashin Farsak Raja, Ana Villanueva, Karthik Ramani
+年份: 2022
+会议: UIST 2022 · MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time
+链接: https://doi.org/10.1145/3526113.3545668
+A1 Physical Form: Rod, Block
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 13
+标题: Virtual Water-Jet Fire Suppression: Targeting a Building with a Fire Engine
+作者: Zhengzhe Zhu, Ziyi Liu, Tianyi Wang, Youyou Zhang, Xun Qian, Pashin Farsak Raja, Ana Villanueva, Karthik Ramani
+年份: 2022
+会议: UIST 2022 · MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time
+链接: https://doi.org/10.1145/3526113.3545668
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Virtual-Object Proxy
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual, Auditory
+
+编号: 14
+标题: Remote Cannon Interaction: Triggering Vibrotactile Feedback on Impact
+作者: Zhengzhe Zhu, Ziyi Liu, Tianyi Wang, Youyou Zhang, Xun Qian, Pashin Farsak Raja, Ana Villanueva, Karthik Ramani
+年份: 2022
+会议: UIST 2022 · MechARspace: An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time
+链接: https://doi.org/10.1145/3526113.3545668
+A1 Physical Form: Rod, Container
+A2 Digital Semantic Resources: Virtual-Object Proxy, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual, Haptic
+
+编号: 15
+标题: Moisture-Responsive Lighting: Mapping Soil Moisture to Light Color
+作者: Katja Krug, Wolfgang Buschel, Konstantin Klamka, Raimund Dachselt
+年份: 2022
+会议: ISMAR 2022 · CleAR Sight: Exploring the Potential of Interacting with Transparent Tablets in Augmented Reality
+链接: https://doi.org/10.1109/ismar55827.2022.00034
+A1 Physical Form: Block, Sphere
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Persistent
+D4 Feedback Modality: Visual
+
+编号: 16
+标题: Tangible Block Addition: Computing the Sum of Two Number Blocks
+作者: Kyzyl Monteiro, Ritik Vatsal, Neil Chulpongsatorn, Aman Parnami, Ryo Suzuki
+年份: 2023
+会议: CHI 2023 · Teachable Reality: Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching
+链接: https://doi.org/10.1145/3544548.3581449
+A1 Physical Form: Block
+A2 Digital Semantic Resources: Data
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 17
+标题: Tangible Map-Region Selection: Revealing Spatiotemporal Data with a Ring
+作者: Seung Youb Ssin, James A. Walsh, Ross T. Smith, Andrew Cunningham, Bruce H. Thomas
+年份: 2019
+会议: IEEE VR 2019 · GeoGate: Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions
+链接: https://doi.org/10.1109/vr.2019.8797812
+A1 Physical Form: Ring, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 18
+标题: Spatiotemporal Slider: Browsing Time Along a Tangible Base
+作者: Barrett Ens, Sarah Goodwin, Arnaud Prouzeau, Fraser Anderson, Florence Y. Wang, Samuel Gratzl, Zac Lucarelli, Brendan Moyle, Jim Smiley, Tim Dwyer
+年份: 2021
+会议: IEEE TVCG 2021 · Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics
+链接: https://doi.org/10.1109/tvcg.2020.3030334
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: Function, Data
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Axis
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 19
+标题: Spatiotemporal Slider: Switching Views by Lifting the Slider
+作者: Barrett Ens, Sarah Goodwin, Arnaud Prouzeau, Fraser Anderson, Florence Y. Wang, Samuel Gratzl, Zac Lucarelli, Brendan Moyle, Jim Smiley, Tim Dwyer
+年份: 2021
+会议: IEEE TVCG 2021 · Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics
+链接: https://doi.org/10.1109/tvcg.2020.3030334
+A1 Physical Form: Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 20
+标题: Physical Canvas: Surface-Constrained Tracing
+作者: Qianyuan Zou, Huidong Bai, Zhuang Chang, Zirui Xiao, Suizi Tian, Henry Been-Lirn Duh, Allan Fowler, Mark Billinghurst
+年份: 2024
+会议: IEEE ISMAR 2024 · The Effect of Interface Types and Immersive Environments on Drawing Accuracy and User Comfort
+链接: https://doi.org/10.1109/ismar62088.2024.00099
+A1 Physical Form: Rod, Block
+A2 Digital Semantic Resources: Function, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 21
+标题: Surface-Based Stroke Annotation: Generating a Virtual Trajectory on a Physical Part
+作者: K.N. Kutulakos, J.R. Vallino
+年份: 1998
+会议: TVCG 1988 · Calibration-Free Augmented Reality
+链接: https://doi.org/10.1109/2945.675647
+A1 Physical Form: Rod, Block
+A2 Digital Semantic Resources: Function, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Plane
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 22
+标题: Magnetic-Field Adjustment: Controlling Compass-Needle Deflection
+作者: Tianren Luo, Mingmin Zhang, Zhigeng Pan, Zheng Li, Ning Cai, Jinda Miao, Youbin Chen, Mingxi Xu
+年份: 2020
+会议: TVCG 2020 · Dream-Experiment: A MR User Interface with Natural Multi-channel Interaction for Virtual Experiments
+链接: https://doi.org/10.1109/tvcg.2020.3023602
+A1 Physical Form: Ring, Rod
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: None
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 23
+标题: Assembly-Enabled Activation: Constructing a Virtual Flashlight
+作者: Davide Calandra, F. Gabriele Prattico, Alberto Cannavo, Luca Micelli, Fabrizio Lamberti
+年份: 2019
+会议: IEEE VR 2019 · Building Reconfigurable Passive Haptic Interfaces On Demand Using Off-the-shelf Construction Bricks
+链接: https://doi.org/10.1109/vr.2019.8797865
+A1 Physical Form: Block, Container
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Shape
+B3 Relational Logic: Composition
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Composite Whole
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 24
+标题: Insertion-and-Rotation Control: Manipulating a Virtual Object with a Constrained Tool
+作者: Toshiro Kashiwagi, Kaoru Sumi, Sidney Fels, Qian Zhou, Fan Wu
+年份: 2019
+会议: IEEE VR 2019 · Crystal Palace: Merging Virtual Objects and Physical Hand-held Tools
+链接: https://doi.org/10.1109/vr.2019.8798370
+A1 Physical Form: Rod, Ring
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 25
+标题: Motion-Based Bubble Control: Manipulating Virtual Bubbles by Shaking a Rod
+作者: Lifeng Zhu, Xijing Liu
+年份: 2019
+会议: IEEE VR 2019 · A Mobile Augmented Reality Approach for Creating Dynamic Effects with Controlled Vector Fields
+链接: https://doi.org/10.1109/vr.2019.8797735
+A1 Physical Form: Rod, Container
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Continuous
+D1 Feedback Placement: Relational Space of the Entities
+D2 Feedback Form: Continuous Update
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 26
+标题: Watering-Triggered Character Activation
+作者: Jie Guan, Nadine Lessio, Yiyi Shao, Alexis Morris
+年份: 2020
+会议: VRW 2020 · Exploring a Mixed Reality Framework for the Internet-of-Things: Toward Visualization and Interaction with Hybrid Objects and Avatars
+链接: https://doi.org/10.1109/vrw50115.2020.00281
+A1 Physical Form: Container
+A2 Digital Semantic Resources: Virtual-Character Proxy, No Additional Semantics
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Region
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 27
+标题: Overlay-Based Information Decoding with Transparent Panels
+作者: Alvaro Villegas, Pablo Perez, Redouane Kachach, Francisco Pereira, Ester Gonzalez-Sosa
+年份: 2020
+会议: VRW 2020 · Realistic training in VR using physical manipulation
+链接: https://doi.org/10.1109/vrw50115.2020.00025
+A1 Physical Form: Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics
+B1 Role Configuration: Symmetric
+B2 Spatial Constraint: Distance
+B3 Relational Logic: Peer Association
+C1 Control Allocation: Dual-Entity Relative Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Composite Whole
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Transient
+D4 Feedback Modality: Visual
+
+编号: 28
+标题: Sequential Rotation Unlocking
+作者: Mac Greenslade, Adrian Clark, Zhe Chen, Stephan Lukosch
+年份: 2023
+会议: VRW 2023 · Vibro-tactile Feedback for Dial Interaction using an Everyday Object in Augmented Reality
+链接: https://doi.org/10.1109/vrw58643.2023.00297
+A1 Physical Form: Block, Planar Surface
+A2 Digital Semantic Resources: Function
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: Composition
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete
+D1 Feedback Placement: Remote Virtual Object
+D2 Feedback Form: One-Time Animation
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
+
+编号: 29
+标题: Magnified Mirror View for Precision Alignment
+作者: Vanessa Kern, Constantin Kleinbeck, Kevin Yu, Alejandro Martin-Gomez, Alexander Winkler, Nassir Navab, Daniel Roth
+年份: 2023
+会议: VRW 2023 · Magnifying Augmented Mirrors for Accurate Alignment Tasks
+链接: https://doi.org/10.1109/vrw58643.2023.00185
+A1 Physical Form: Block, Planar Surface
+A2 Digital Semantic Resources: No Additional Semantics, Function
+B1 Role Configuration: Asymmetric
+B2 Spatial Constraint: Orientation
+B3 Relational Logic: One-Way Influence
+C1 Control Allocation: Single-Entity Control
+C2 Interaction Continuity: Discrete, Continuous
+D1 Feedback Placement: One of the Entities
+D2 Feedback Form: Static
+D3 Feedback Persistence: Relation-Dependent
+D4 Feedback Modality: Visual
